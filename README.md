@@ -6,7 +6,13 @@ This is a documentation app built with Next.js. It is a simple app that displays
 
 You can watch the video on how to build this app on YouTube. [Watch the video](https://www.youtube.com/watch?v=D2XNBcCw7BA)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D2XNBcCw7BA/0.jpg)](https://www.youtube.com/watch?v=D2XNBcCw7BA)
+[![documentation app built with Next.js](https://img.youtube.com/vi/D2XNBcCw7BA/0.jpg)](https://www.youtube.com/watch?v=D2XNBcCw7BA)
+
+![Snapshot](https://github.com/user-attachments/assets/7b7dabbb-5119-4463-81fb-ee945b076408)
+
+![Snapshot_1](https://github.com/user-attachments/assets/57fec74c-85a9-4016-9329-e8beeffeae0c)
+
+![Snapshot_2](https://github.com/user-attachments/assets/be0a1db3-5ec7-4e58-835c-0fd15d0055f9)
 
 ## Getting Started
 
